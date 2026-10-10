@@ -1,0 +1,13 @@
+# Python cache
+**/__pycache__/
+
+# Cached data
+*.pkl
+
+# Executables
+*.exe
+
+*.py[cod]
+.venv/
+venv/
+.env
